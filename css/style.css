@@ -110,6 +110,7 @@ header .menu{
 }
 .sorkaridol-birodhidol .thumbnail-content .text h4{
     font-weight: bold;
+    color: black;
 }
 /*============Sorkaridol Birodhidol css end here =========*/
 
@@ -198,7 +199,7 @@ header .menu{
 }
 .sakhatar-details{
     background-color: white;
-    height: 275px;
+    height: 274px;
     border-right: 2px solid #D3D3D3;
 }
 .sakhatkar .sakhatar-details .sakhtatkar-contetn{
@@ -225,8 +226,158 @@ header .menu{
 }
 /*=======Khali part  css start here==============*/
 .khali-part .content{
-    height: 70px;
+    height: 17px;
     background-color: #D3D3D3;
     margin-top: -20px;
 }
 /*=======Khali part css end here==============*/
+
+
+
+/*=======Jatio News css part start here==============*/
+.jatio-news .jatio-content{
+    background-color: lightgrey;
+    height: 290px;
+    border-left: 2px solid lightgrey;
+}
+.jatio-news .jatio-content img{
+    height: 200px;
+    width: 100%;
+}
+.jatio-news .jatio-content .thumbnail-content{
+    border: 1px solid lightgrey;
+    margin-top: -1px;
+    height: 278px;
+    border-left: 2px solid lightgrey;
+    border-top: 3px solid lightgrey;
+    border-radius: 0px;
+    margin-top: -3px;
+}
+.jatio-news .jatio-content .thumbnail-content h4{
+    font-weight: bold;
+    color: black;
+}
+.jatio-news .jatio-content .thumbnail-content a:hover{
+    text-decoration: none;
+}
+/*=======Jatio News css part start here==============*/
+
+
+/*=======Facebook Page css part start here==============*/
+.facebook-page{
+    height: 490px;
+    border-right: 4px solid lightgrey;
+    margin-top: -4px;
+    margin-bottom: -11px;
+    border-left: 3px solid lightgrey;
+    margin-top: -3px;
+    border-top: 4px solid lightgrey;
+}
+/*=======Facebook Page css part end here==============*/
+
+
+/*======= Archive css part start here ==============*/
+.archive{
+    border-bottom: 10px solid lightgrey;
+    border-right: 4px solid lightgrey;
+    border-left: 3px solid lightgrey
+}
+.archive h4{
+    font-size: 30px;
+    background-color: lightgrey;
+    font-weight: bold;
+    padding: 9px 0;
+}
+.archive h5{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.archive hr{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0;
+    border-top: 5px solid #eee;
+    width: 100px;
+}
+.archive .archive-form{
+    margin-top: 40px;
+}
+.archive .archive-form .archive-form-group{
+    margin-left: 60px;
+}
+.archive .archive-label{
+    font-size: 18px;
+}
+.archive .archive-form .submit-button .submit-button-content{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 34px;
+    margin-left: 29px;
+}
+.archive .archive-form .submit-button{
+    margin-bottom: 12px;    
+}
+/*======= Archive css part start here ==============*/
+
+
+/*======= Advertise css part start here ==============*/
+.advertise .add-content{
+    height: 120px;
+    background-color: lightgrey;
+    margin-top: -21px;
+}
+/*======= Advertise css part end here ==============*/
+
+
+
+/*======= Kheladhula css part start here ==============*/
+.kheladhula-part h4{
+    padding-bottom: 7px;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 2px 0;
+    border-bottom: 3px solid lightgrey;
+}
+.kheladhula-part .kheladhula-thumbnail img{
+    height: 250px;
+    width: 100%;
+}
+/*=======Kheladhula-2nd-part css part start here ==============*/
+.kheladhula-2nd-part .kheladhula-2nd-part-thumbnail{
+    margin-bottom: 0px;
+    border-radius: 0px;
+    height: 310px;
+}
+.kheladhula-2nd-part .kheladhula-2nd-part-thumbnail img{
+    height: 160px;
+    width: 100%;
+}
+/*=======Kheladhula-2nd-part css part end here ==============*/
+/*=======Kheladhula css part end here ==============*/
+
+
+/*=======Rajniti css part start here ==============*/
+.rajniti-part .rajniti-part-2{
+    background-color: gray;
+    height: 72px;
+}
+.rajniti-part .rajniti-part-2 h1{
+    background-color: white;
+    padding: 6px 0 2px 3px;
+    margin-left: 8px;
+    margin-top: 14px;
+}
+.rajniti-part .rajniti-part-2 img{
+    height: 300px;
+    width: 100%;
+}
+.rajniti-part .rajniti-part-2 .rajniti-content{
+    margin-left: 16px;
+}
+.rajniti-part .rajniti-part-2 .rajniti-content a p{
+    font-size: 18px;
+    color: black;
+}
+/*=======Rajniti css part end here ==============*/
+
