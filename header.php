@@ -9,7 +9,10 @@
         <link rel="stylesheet" href="css/bootstrap.min.css" />
 
         <!----here css file link hrer --->
-        <link rel="stylesheet" href="css/style.css" /><!-- jQuery link here-->
+        <link rel="stylesheet" href="css/style.css" />
+        <!--Font awesome link here-->
+        <link rel="stylesheet" href="css/font-awesome.min.css" />
+        <!-- jQuery link here-->
         <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
 
 
@@ -40,7 +43,7 @@
                 </div>
             </div>
             <!--Navbar start here --->
-            <nav class="navbar navbar-default">
+            <nav class="navbar navbar-default" data-spy = "affix" data-offset-top= "197">
                 <div class="container">
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header">

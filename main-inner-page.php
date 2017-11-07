@@ -8,13 +8,12 @@
         <link rel="stylesheet" href="css/inner-page.css" />
     </head>
     <body>
-        <?php
-        require_once './header.php';
-        ?>
+        <?php require_once './header.php';?>
+        
         <div class="inner_page">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8">
+                    <div class="col-lg-9">
                         <div class="row">
                             <div class="main_content">
                                 <div class="col-lg-8">
@@ -143,19 +142,15 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4">
-                        <?php
-                        require_once './sorbocho_sorbadhik.php';
-                        ?>
+                    <div class="col-lg-3">
+                        <?php require_once './sorbocho_sorbadhik.php'; ?>
                     </div>
                 </div>
             </div>
         </div>
 
 
-        <?php
-        require_once './footer.php';
-        ?>
+        <?php require_once './footer.php';?>
     </body>
 </html>
 

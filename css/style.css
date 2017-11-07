@@ -53,6 +53,11 @@ body h3{
     margin-top: 0px;
 }
 /*=======Navbar menu part css start hrer=======*/
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+}
 header .menu{
     background-color: white;
     border: none;
