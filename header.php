@@ -27,7 +27,7 @@
                 <div class="row">
                     <div class="logo col-lg-6">
                         <a href="index.php">
-                            <img src="images/logo2.png" alt="logo" />
+                            <img src="images/logo3.png" alt="logo" class="img-responsive"/>
                         </a>
                     </div>
                     <div class="date col-lg-6">
@@ -35,15 +35,14 @@
                         <script>
                             document.getElementById("demo").innerHTML = Date();
                         </script>
-                        <hr />
                         <div class="add">
-                            <h1>Add</h1>
+                            
                         </div>
                     </div>
                 </div>
             </div>
             <!--Navbar start here --->
-            <nav class="navbar navbar-default" data-spy = "affix" data-offset-top= "197">
+            <nav class="navbar navbar-default menu" data-spy = "affix" data-offset-top= "197">
                 <div class="container">
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header">
@@ -59,7 +58,7 @@
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav">
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">নীড়পাতা<span class="caret"></span></a>
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">নীড়পাতা<i class="fa fa-chevron-down" aria-hidden="true"></i></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="#">Action</a></li>
                                     <li><a href="#">Another action</a></li>
