@@ -81,9 +81,15 @@ require_once './header.php';
             <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ News Protal Left Part start here @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-->
             <div class="news-content col-lg-6">
                 <div class="main-news">
-                    <h2><a href="#">ইতালিতে নৌকা বাইচ</a></h2>
-                    <a href="#" class="img"><img src="images/river.JPG" alt="" class="img-responsive"/></a>
-                    <h4><a href="#">এবার ২৯ সেপ্টেম্বর থেকে এই আন্তর্জাতিক নৌকাবাইচ শুরু হয়েছে। ৮ অক্টোবর, ত্রিয়েস্তা, ইতালি</a></h4>
+                    <h2><a href="#">বন্য প্রাণী পাচারের তালিকায় বাংলাদেশ</a></h2>
+                    <a href="#">
+                        <img src="images/river.JPG" alt="" class="img-responsive" width="200"/>
+                        আজ বৃহস্পতিবার জাতীয় সংসদ অধিবেশনে পয়েন্ট অব অর্ডারে গৃহকর বাড়ানো নিয়ে বক্তব্য দেন তিনজন সাংসদ।
+                        রাজধানীতে গৃহকর বাড়ানোর বিষয়টি পুনর্বিবেচনা করার আহ্বান জানিয়ে বাণিজ্যমন্ত্রী তোফায়েল আহমেদ বলেন, গৃহকর হঠাৎ করে নয় গুণ বাড়ানো হলে তা মানুষ গ্রহণ করবে না। এতে বিরূপ প্রতিক্রিয়া দেখা দেবে।
+                        বাণিজ্যমন্ত্রী বলেন, কর বাড়বে, এটা অস্বাভাবিক নয়। কিন্তু সংশ্লিষ্ট কর্তৃপক্ষ অনেক বছর ধরে কর বাড়ায়নি। এখন একসঙ্গে নয় গুণ বাড়ানো হলে মানুষ তা গ্রহণ করবে না। গৃহকর ৮ হাজার টাকা থেকে হঠাৎ করে ৭২ হাজার টাকা হলে ব্যাপক প্রতিক্রিয়া হবে। এটি পুনর্বিবেচনা করা প্রয়োজন।
+                        তোফায়েল আহমেদ বলেন, ‘জনপ্রতিনিধি হিসেবে আমরা রাজনীতি করি। রাজনীতির কতগুলো সময় থাকে। সেই বিষয়টি তিন-চার বছর আগে করা যেত, সেটা যদি সরকারের শেষ সময় এসে করে, তাহলে প্রতিক্রিয়া হতে বাধ্য। মন্ত্রিসভার সদস্য হিসেবে আমার পক্ষে সবকিছু বলা সম্ভব নয়।’
+                    </a>
+
                 </div>
                 <!-- Sokaridol birodhidol part start here-->
                 <div class="sorkaridol-birodhidol">
@@ -188,6 +194,7 @@ require_once './header.php';
                         <div class="sakhatkar">
                             <h2 class="text-center"><a href="#">সাক্ষাৎকার</a></h2>
                             <div class="sakhatar-details">
+                                <hr />
                                 <div class="sakhtatkar-content">
                                     <div class="col-lg-4">
                                         <a href="#">
@@ -269,7 +276,7 @@ require_once './header.php';
                         <div class="thumbnail thumbnail-content">
                             <a href="#"><img src="images/tashkin.jpg" alt="taskin"></a>
                             <div class="caption">
-                                <a href="#"><h4>বিয়ে করলেন তাসকিন</h4></a>
+                                <a href="#"><h4>নেইমার কেন ফ্রান্সের ফুটবলে, বুঝছেন না ক্যান্টোনা</h4></a>
                             </div>
                         </div>
                     </div>
@@ -337,7 +344,7 @@ require_once './header.php';
                                  data-href="https://www.facebook.com/facebook" 
                                  data-tabs="timeline"
                                  data-width="586" 
-                                 data-height="340" 
+                                 data-height="380" 
                                  data-small-header="true" 
                                  data-adapt-container-width="true" 
                                  data-hide-cover="false" 
@@ -354,34 +361,38 @@ require_once './header.php';
                 <!-- Archive part start here -->
                 <div class="row">
                     <div class="archive">
-                        <h4 class="text-center">আর্কাইভ</h4>
-                        <h5 class="text-center">খবর খুজুন</h5>
+                        <h1><a href="#">ফেসবুক কথন</a></h1>
                         <hr />
-                        <form class="form-horizontal text-center archive-form">
-                            <div class="form-group archive-form-group">
-                                <label for="input1" class="col-lg-3 control-label archive-label">তারিখ দিন :</label>
-                                <div class="col-lg-5">
-                                    <input type="password" class="form-control archive-input" id="input1">
+                        <div class="col-lg-4">
+                            <div class="thumbnail thumbnail_content">
+                                <a href="#"><img src="images/fb1.jpg" alt="facebo"></a>
+                                <div class="caption">
+                                    <h3>
+                                        <a href="#">নতুন আইফোনে যা যা নতুন</a>
+                                    </h3>
                                 </div>
                             </div>
-                            <div class="form-group archive-form-group">
-                                <label for="input2" class="col-lg-3 control-label archive-label">মাস দিন :</label>
-                                <div class="col-lg-5">
-                                    <input type="password" class="form-control archive-input" id="input2">
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="thumbnail thumbnail_content">
+                                <a href="#"><img src="images/fb1.jpg" alt="facebo"></a>
+                                <div class="caption">
+                                    <h3>
+                                        <a href="#">নতুন আইফোনে যা যা নতুন</a>
+                                    </h3>
                                 </div>
                             </div>
-                            <div class="form-group archive-form-group">
-                                <label for="input3" class="col-lg-3 control-label archive-label">সাল দিন :</label>
-                                <div class="col-lg-5">
-                                    <input type="password" class="form-control archive-input" id="input3">
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="thumbnail thumbnail_content">
+                                <a href="#"><img src="images/fb1.jpg" alt="facebo"></a>
+                                <div class="caption">
+                                    <h3>
+                                        <a href="#">নতুন আইফোনে যা যা নতুন</a>
+                                    </h3>
                                 </div>
                             </div>
-                            <div class="form-group text-center">
-                                <div class="submit-button">
-                                    <button type="submit" class="btn btn-default submit-button-content">প্রবেশ করুন</button>
-                                </div>
-                            </div>
-                        </form>
+                        </div>
                     </div>
                 </div>
                 <!-- Archive part end here -->
@@ -417,16 +428,28 @@ require_once './header.php';
                         <a href="#"><img src="images/a.jpg" alt="Sachin"></a>
                         <div class="caption kheladhula-thumbnail-likha">
                             <a href="#"><h3>রান করার রহস্য—আপেল আর গোসল!</h3></a>
-                            <a href="#"><p>হায়দরাবাদের এই স্টাইলিশ ব্যাটসম্যানের জন্মদিন আজ। লক্ষ্মণের ৪৩তম জন্মদিনে শুভেচ্ছা জানিয়েছেন......</p></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="thumbnail kheladhula-thumbnail">
-                        <a href="#"><img src="images/rafa.jpg" alt="Rafa"></a>
-                        <div class="caption kheladhula-thumbnail-likha">
-                            <a href="#"> <h3>ফেদেরারকে ছোঁয়ার কথা ভাবি না</h3></a>
-                            <a href="#"><p>আগের দুই বছর কোনো গ্র্যান্ড স্লাম জিততে পারেননি। এ বছর জিতেছেন দুটি। গত...</p></a>
+                    <div class="media">
+                        <div class="media-left media-middle">
+                            <a href="#">
+                                <img class="media-object" src="images/psg.jpg" alt="PSG">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading"><a href="#">নেইমারকে ছাপিয়ে নায়ক যখন কুরজাওয়া</a></h4>
+                        </div>
+                    </div>
+                    <div class="media">
+                        <div class="media-left media-middle">
+                            <a href="#">
+                                <img class="media-object" src="images/psg.jpg" alt="PSG">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading"><a href="#">নেইমারকে ছাপিয়ে নায়ক যখন কুরজাওয়া</a></h4>
                         </div>
                     </div>
                 </div>
@@ -441,16 +464,14 @@ require_once './header.php';
                                     <a href="#"><img src="images/psg.jpg" alt="PSG"></a>
                                     <div class="caption">
                                         <a href="#"><h3>নেইমারকে ছাপিয়ে নায়ক যখন কুরজাওয়া</h3></a>
-                                        <a href="#"><p>পিএসজি মানেই তো নেইমার-কাভানি আর এমবাপ্পের গল্প। কাতারের ধনকুবের নাসের...</p></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
-                                    <img src="images/chan.jpg" alt="Chan">
+                                    <a href="#"><img src="images/chan.jpg" alt="Chan"></a>
                                     <div class="caption">
                                         <a href="#"><h3>ঘরের মাঠে রোমার দাপুটে জয়</h3></a>
-                                        <a href="#"><p>২০১৭–১৮ চ্যাম্পিয়নস লিগের গ্রুপ পর্বে দুই দলের প্রথম লড়াইয়ের মতোই গোলবহুল ম্যাচ ...</p></a>
                                     </div>
                                 </div>
                             </div>
@@ -459,7 +480,6 @@ require_once './header.php';
                                     <a href="#"><img src="images/bolt.jpg" alt="Bolt"></a>
                                     <div class="caption">
                                         <a href="#"><h3>ব্যবসায়ী বোল্ট</h3></a>
-                                        <a href="#"><p>ক্রীড়াঙ্গনের সাবেক-বর্তমান অনেক তারকাই রেস্তোরাঁ ব্যবসা খুলে বসেছেন। ক্রিকেটের শচীন ...</p></a>
                                     </div>
                                 </div>
                             </div>
@@ -468,7 +488,6 @@ require_once './header.php';
                                     <a href="#"><img src="images/mas.jpg" alt="Mash"></a>
                                     <div class="caption">
                                         <a href="#"><h3>‘...কারণ এরা দক্ষিণ আফ্রিকায় খেলেনি’</h3></a>
-                                        <a href="#"><p>২০১৩-১৪ মৌসুমের বিসিএলের পর এবারের জাতীয় লিগেই আবার খেললেন দীর্ঘ পরিসরের...</p></a>
                                     </div>
                                 </div>
                             </div>
@@ -487,49 +506,47 @@ require_once './header.php';
     <div class="container">
         <div class="row">
             <div class="rajniti-part-2">
-                <div class="col-lg-9">
-                    <div class="row">
-                        <div class="total-content">
-                            <a href="#"><h1>রাজনীতি</h1></a>
-                            <hr />
-                            <div class="col-lg-8">
-                                <a href="#">
-                                    <img class="main-image" src="images/mirjjafokrul.jpg" alt="Mirjja Fokrul" />
-                                </a>
+                <div class="col-lg-8">
+                    <div class="total-content">
+                        <a href="#"><h1>রাজনীতি</h1></a>
+                        <hr />
+                        <div class="col-lg-8">
+                            <a href="#">
+                                <img class="main-image" src="images/mirjjafokrul.jpg" alt="Mirjja Fokrul" />
+                            </a>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="rajniti-content">
+                                <a href="#"><h2>কাল সারা দেশে বিএনপির বিক্ষোভ</h2></a>
+                                <a href="#"><p>মির্জা ফখরুল ইসলাম আলমগীর বিএনপির চেয়ারপারসন খালেদা জিয়ার গাড়িবহরে হামলার প্রতিবাদে কর্মসূচি ঘোষণা করেছে দলটি। আগামীকাল বৃহস্পতিবার সারা দেশের জেলা সদরে এবং শনিবার ঢাকা মহানগরে সব থানায় বিক্ষোভ কর্মসূচির ডাক দিয়েছে বিএনপি</p></a>
                             </div>
-                            <div class="col-lg-4">
-                                <div class="rajniti-content">
-                                    <a href="#"><h2>কাল সারা দেশে বিএনপির বিক্ষোভ</h2></a>
-                                    <a href="#"><p>মির্জা ফখরুল ইসলাম আলমগীর বিএনপির চেয়ারপারসন খালেদা জিয়ার গাড়িবহরে হামলার প্রতিবাদে কর্মসূচি ঘোষণা করেছে দলটি। আগামীকাল বৃহস্পতিবার সারা দেশের জেলা সদরে এবং শনিবার ঢাকা মহানগরে সব থানায় বিক্ষোভ কর্মসূচির ডাক দিয়েছে বিএনপি</p></a>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="col-lg-4">
+                                    <div class="thumbnail thumbnail-contents">
+                                        <a href="#"><img src="images/rain.jpg" alt="Rain"></a>
+                                        <div class="caption thumbnail-caption">
+                                            <a href="#"><h3>এই বৃষ্টির দিনে</h3></a>
+                                            <a href="#"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন</p></a>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="col-lg-4">
-                                        <div class="thumbnail thumbnail-contents">
-                                            <a href="#"><img src="images/rain.jpg" alt="Rain"></a>
-                                            <div class="caption thumbnail-caption">
-                                                <a href="#"><h3>এই বৃষ্টির দিনে</h3></a>
-                                                <a href="#"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন</p></a>
-                                            </div>
+                                <div class="col-lg-4">
+                                    <div class="thumbnail thumbnail-contents">
+                                        <a href="#"><img src="images/rain.jpg" alt="Rain"></a>
+                                        <div class="caption thumbnail-caption">
+                                            <a href="#"><h3>এই বৃষ্টির দিনে</h3></a>
+                                            <a href="#"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন</p></a>
                                         </div>
                                     </div>
-                                    <div class="col-lg-4">
-                                        <div class="thumbnail thumbnail-contents">
-                                            <a href="#"><img src="images/rain.jpg" alt="Rain"></a>
-                                            <div class="caption thumbnail-caption">
-                                                <a href="#"><h3>এই বৃষ্টির দিনে</h3></a>
-                                                <a href="#"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4">
-                                        <div class="thumbnail thumbnail-contents">
-                                            <a href="#"><img src="images/rain.jpg" alt="Rain"></a>
-                                            <div class="caption thumbnail-caption">
-                                                <a href="#"><h3>এই বৃষ্টির দিনে</h3></a>
-                                                <a href="#"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন </p></a>
-                                            </div>
+                                </div>
+                                <div class="col-lg-4">
+                                    <div class="thumbnail thumbnail-contents">
+                                        <a href="#"><img src="images/rain.jpg" alt="Rain"></a>
+                                        <div class="caption thumbnail-caption">
+                                            <a href="#"><h3>এই বৃষ্টির দিনে</h3></a>
+                                            <a href="#"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন </p></a>
                                         </div>
                                     </div>
                                 </div>
@@ -537,10 +554,8 @@ require_once './header.php';
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3">
-                    <div class="row">
+                <div class="col-lg-4">
 
-                    </div>
                 </div>
             </div>
             <!--Rajnit Thumbnail start here-->
@@ -698,19 +713,31 @@ require_once './header.php';
                 <!--Kheladhula First part start here-->
                 <div class= "col-lg-6">
                     <div class="thumbnail kheladhula-thumbnail">
-                        <a href="#"><img src="images/binodon.jpg" alt="Sachin"></a>
+                        <a href="#"><img src="images/binodon1.jpg" alt="jesia"></a>
                         <div class="caption kheladhula-thumbnail-likha">
-                            <a href="#"><h3>এমির আসরের এক ঝলক</h3></a>
-                            <a href="#"><p>৬৯তম এমি অ্যাওয়ার্ডে ড্রামা সিরিজ ‘দ্য হ্যান্ডমেইড’স টেল’-এর শিল্পী ও কলাকুশলীদের হাতে পুরস্কার তুলে দেন অপরাহ উইনফ্রে।</p></a>
+                            <a href="#"><h3>‘ফাইনাল ফোরটি’ থেকে বাদ জেসিয়া</h3></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="thumbnail kheladhula-thumbnail">
-                        <a href="#"><img src="images/binodon2.jpg" alt="Rafa"></a>
-                        <div class="caption kheladhula-thumbnail-likha">
-                            <a href="#"> <h3>নানারূপে মিম</h3></a>
-                            <a href="#"><p>আগের দুই বছর কোনো গ্র্যান্ড স্লাম জিততে পারেননি। এ বছর জিতেছেন দুটি। গত...</p></a>
+                    <div class="media">
+                        <div class="media-left media-middle">
+                            <a href="#">
+                                <img class="media-object" src="images/salmankhan.jpg" alt="PSG">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading"><a href="#">বিপাকে উর্বশী</a></h4>
+                        </div>
+                    </div>
+                    <div class="media">
+                        <div class="media-left media-middle">
+                            <a href="#">
+                                <img class="media-object" src="images/shakib.jpg" alt="PSG">
+                            </a>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading"><a href="#">ছেলেকে রেখে কলকাতায় অপু, শাকিব দেখেন তালা</a></h4>
                         </div>
                     </div>
                 </div>
@@ -722,37 +749,33 @@ require_once './header.php';
                         <div class="col-lg-12">
                             <div class="col-lg-3">
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
-                                    <a href="#"><img src="images/binodon3.jpg" alt="PSG"></a>
+                                    <a href="#"><img src="images/jesia.jpg" alt="PSG"></a>
                                     <div class="caption">
-                                        <a href="#"><h3>শিল্পী কখনো তৃপ্ত হয়?</h3></a>
-                                        <a href="#"><p>পিএসজি মানেই তো নেইমার-কাভানি আর এমবাপ্পের গল্প। কাতারের ধনকুবের নাসের...</p></a>
+                                        <a href="#"><h3>‘ফাইনাল ফোরটি’ থেকে বাদ জেসিয়া</h3></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
-                                    <a href="#"><img src="images/binodon4.jpg" alt="Chan"></a>
+                                    <a href="#"><img src="images/habib.jpg" alt="Chan"></a>
                                     <div class="caption">
-                                        <a href="#"><h3>নিজেকে ভালো রাখতে চেয়েছি</h3></a>
-                                        <a href="#"><p>২০১৭–১৮ চ্যাম্পিয়নস লিগের গ্রুপ পর্বে দুই দলের প্রথম লড়াইয়ের মতোই গোলবহুল ম্যাচ ...</p></a>
+                                        <a href="#"><h3>‘সুরসম্রাটের হাত থেকে পুরস্কার পেলাম’</h3></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
-                                    <a href="#"><img src="images/binodon5.jpg" alt="Bolt"></a>
+                                    <a href="#"><img src="images/tilta.jpg" alt="Bolt"></a>
                                     <div class="caption">
-                                        <a href="#"><h3>অস্ট্রেলিয়ার পথে পথে পরিণীতি</h3></a>
-                                        <a href="#"><p>ক্রীড়াঙ্গনের সাবেক-বর্তমান অনেক তারকাই রেস্তোরাঁ ব্যবসা খুলে বসেছেন। ক্রিকেটের শচীন ...</p></a>
+                                        <a href="#"><h3>টিলডার কাছে ঢাকা এক স্মৃতিময় শহর</h3></a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
-                                    <a href="#"><img src="images/binodon6.jpg" alt="Mash"></a>
+                                    <a href="#"><img src="images/amisa.jpg" alt="Mash"></a>
                                     <div class="caption">
-                                        <a href="#"><h3>নভেম্বরে ফিরবেন সেলেনা’</h3></a>
-                                        <a href="#"><p>২০১৩-১৪ মৌসুমের বিসিএলের পর এবারের জাতীয় লিগেই আবার খেললেন দীর্ঘ পরিসরের...</p></a>
+                                        <a href="#"><h3>খোলামেলা ছবি দিয়ে বিতর্কে আমিশা!’</h3></a>
                                     </div>
                                 </div>
                             </div>
@@ -772,48 +795,46 @@ require_once './header.php';
         <div class="row">
             <div class="rajniti-part-2">
                 <div class="col-lg-9">
-                    <div class="row">
-                        <div class="total-content">
-                            <a href="#"><h1>শিক্ষা</h1></a>
-                            <hr />
-                            <div class="col-lg-8">
-                                <a href="#">
-                                    <img class="main-image" src="images/sikhha.jpg" alt="Mirjja Fokrul" />
-                                </a>
+                    <div class="total-content">
+                        <a href="#"><h1>সাহিত্য</h1></a>
+                        <hr />
+                        <div class="col-lg-8">
+                            <a href="#">
+                                <img class="main-image" src="images/sikhha.jpg" alt="Mirjja Fokrul" />
+                            </a>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="rajniti-content">
+                                <a href="#"><h2>ঢাকা বিশ্ববিদ্যালয়কে আর কত নিচে নামাব আমরা?</h2></a>
+                                <a href="#"><p>অনেক পণ্ডিত ও বিদগ্ধজন ঢাকা বিশ্ববিদ্যালয়কে ‘বিশ্ববিদ্যালয়ের চেয়ে অধিক কিছু’ বলে থাকেন। কারণটি এই যে প্রতিষ্ঠার পর থেকে এ ভূখণ্ডে শিক্ষার বিস্তার, শি‌ক্ষিত মধ্যবিত্ত শ্রেণির বিকাশ ও বাঙালি জাতি গঠনে অবদান রাখার মধ্য দিয়ে ঢাকা বিশ্ববিদ্যালয় হয়ে ওঠে</p></a>
                             </div>
-                            <div class="col-lg-4">
-                                <div class="rajniti-content">
-                                    <a href="#"><h2>ঢাকা বিশ্ববিদ্যালয়কে আর কত নিচে নামাব আমরা?</h2></a>
-                                    <a href="#"><p>অনেক পণ্ডিত ও বিদগ্ধজন ঢাকা বিশ্ববিদ্যালয়কে ‘বিশ্ববিদ্যালয়ের চেয়ে অধিক কিছু’ বলে থাকেন। কারণটি এই যে প্রতিষ্ঠার পর থেকে এ ভূখণ্ডে শিক্ষার বিস্তার, শি‌ক্ষিত মধ্যবিত্ত শ্রেণির বিকাশ ও বাঙালি জাতি গঠনে অবদান রাখার মধ্য দিয়ে ঢাকা বিশ্ববিদ্যালয় হয়ে ওঠে</p></a>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="col-lg-4">
+                                    <div class="thumbnail thumbnail-contents">
+                                        <a href="#"><img src="images/sikhha2.jpg" alt="Rain"></a>
+                                        <div class="caption thumbnail-caption">
+                                            <a href="#"><h3>এত ‘উচ্চশিক্ষিত’ মানুষের কাজ কী?</h3></a>
+                                            <a href="#" class="details"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন</p></a>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <div class="col-lg-4">
-                                        <div class="thumbnail thumbnail-contents">
-                                            <a href="#"><img src="images/sikhha2.jpg" alt="Rain"></a>
-                                            <div class="caption thumbnail-caption">
-                                                <a href="#"><h3>এত ‘উচ্চশিক্ষিত’ মানুষের কাজ কী?</h3></a>
-                                                <a href="#" class="details"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন</p></a>
-                                            </div>
+                                <div class="col-lg-4">
+                                    <div class="thumbnail thumbnail-contents">
+                                        <a href="#"><img src="images/sikhha3.jpg" alt="Rain"></a>
+                                        <div class="caption thumbnail-caption">
+                                            <a href="#"><h3>মেডিকেল পারে, বিশ্ববিদ্যালয় পারে না!</h3></a>
+                                            <a href="#" class="details"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন</p></a>
                                         </div>
                                     </div>
-                                    <div class="col-lg-4">
-                                        <div class="thumbnail thumbnail-contents">
-                                            <a href="#"><img src="images/sikhha3.jpg" alt="Rain"></a>
-                                            <div class="caption thumbnail-caption">
-                                                <a href="#"><h3>মেডিকেল পারে, বিশ্ববিদ্যালয় পারে না!</h3></a>
-                                                <a href="#" class="details"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-4">
-                                        <div class="thumbnail thumbnail-contents">
-                                            <a href="#"><img src="images/sikhha4.jpg" alt="Rain"></a>
-                                            <div class="caption thumbnail-caption">
-                                                <a href="#"><h3> কলম ছেড়ে শাবল কেন?</h3></a>
-                                                <a href="#" class="details"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন </p></a>
-                                            </div>
+                                </div>
+                                <div class="col-lg-4">
+                                    <div class="thumbnail thumbnail-contents">
+                                        <a href="#"><img src="images/sikhha4.jpg" alt="Rain"></a>
+                                        <div class="caption thumbnail-caption">
+                                            <a href="#"><h3> কলম ছেড়ে শাবল কেন?</h3></a>
+                                            <a href="#" class="details"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন </p></a>
                                         </div>
                                     </div>
                                 </div>
@@ -980,7 +1001,7 @@ require_once './header.php';
         <div class="row">
             <div class="col-lg-4">
                 <div class="thumbnail total-thumbnail-content">
-                    <a href="#"><h1>নারী</h1></a>
+                    <a href="#"><h1>শিক্ষা</h1></a>
                     <hr />
                     <div class="total-thumbnail-content-2">
                         <a href="#"><img src="images/nari.jpg" alt="Nari"></a>
