@@ -12,9 +12,10 @@
         <link rel="stylesheet" href="css/style.css" />
         <!--Font awesome link here-->
         <link rel="stylesheet" href="css/font-awesome.min.css" />
+        <link rel="stylesheet" href="jquery-ui-1.12.1/jquery-ui.min.css" />
         <!-- jQuery link here-->
         <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
-
+        <script type="text/javascript" src="jquery-ui-1.12.1/jquery-ui.min.js"></script>
 
         <!--[if lt IE 9]>
           <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -23,11 +24,19 @@
     </head>
     <body>
         <header>
-            <div class="col-lg-12">
-                <p id="demo" class="text-center"></p>
-                <script>
-                    document.getElementById("demo").innerHTML = Date();
-                </script>
+            <div class="top_header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <p id="demo">
+                                <script type="text/javascript" src="http://bangladate.appspot.com/index3.php"></script>
+                            </p>
+                        </div>
+                        <div class="col-lg-6 text-right">
+                            <input type="button" class="datepicker btn btn-default archive_button" value="খবর খুজুন"> 
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="container main-content">
                 <div class="row">
@@ -110,6 +119,22 @@
                         </ul>
                     </div><!-- /.navbar-collapse -->
                 </div><!-- /.container-fluid -->
+                <script>
+                    $(document).ready(function () {
+                        var today = new Date();
+                        $('.datepicker').datepicker({
+                            dateFormat: 'yy-mm-dd',
+                            changeMonth: true,
+                            changeYear: true, 
+                            maxDate: today,
+                            onSelect: function (dateText) {
+                                window.location.replace('http://www.prothom-alo.com/archive/' + $(this).val());
+                            }
+                        })
+
+                    });
+                </script>
+
                 <script type="text/javascript">
                     $('.dropdown').hover(
                             function () {
