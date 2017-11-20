@@ -1,7 +1,34 @@
 
         <footer>
             <div class="footer-part">
-
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <ul>
+                                <li><a href="#">আমাদের সম্পর্কে</a></li>
+                                <li><a href="#">শর্তাবলী</a></li>
+                                <li><a href="#">বিজ্ঞাপন দিন</a></li>
+                                <li><a href="#">যোগাযোগ করুন</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-4">
+                            <a href="#">
+                                <img src="images/Logo-Simanto.png" alt="Logo" class="img-responsive"/>
+                            </a>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="phn_no">
+                                <span><i class="fa fa-phone" aria-hidden="true"></i>0170 000 000</span>
+                            </div>
+                            <div class="email_add">
+                                <span><i class="fa fa-envelope-o" aria-hidden="true"></i></i>sample@gmail.com</span>
+                            </div>
+                            <div class="address">
+                                <span><i class="fa fa-location-arrow" aria-hidden="true"></i>যাত্রাবাড়ী পানির ট্যাঙ্ক যাত্রাবাড়ী ঢাকা</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="footer-bottom">
                 <!--Back to top button-->

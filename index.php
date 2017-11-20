@@ -34,7 +34,7 @@ require_once './header.php';
     <div class="container">
         <div class="row breaking_news-content"> 
             <div class="col-md-12">
-                <div class="breaking_news_lbl">Breaking News</div>
+                <div class="breaking_news_lbl">ব্রেকিং নিউজ</div>
                 <div id="breaking_news" class="carousel slide breaking_news_slider" data-ride="carousel"> 
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
@@ -424,7 +424,6 @@ require_once './header.php';
                 <hr />
                 <!--Kheladhula First part start here-->
                 <div class= "col-lg-6">
-<<<<<<< HEAD:index.html
                     <div class="main_news">
                         <div class="col-lg-8">
                             <a href="#"><img src="images/a.jpg" alt="Sachin" class="img-responsive"></a>
@@ -432,17 +431,10 @@ require_once './header.php';
                         <div class="col-lg-4 details">
                             <h3><a href="#">রান করার রহস্য—আপেল আর গোসল!</a></h3>
                             <a href="#"><p>কলকাতা টেস্টে লিডটা বেশ ভালোই হলো শ্রীলঙ্কার। ভারতের ১৭২ রানের জবাবে প্রথম ইনিংসে ২৯৪—১২২ রানে এগিয়ে নিজেদের অবস্থানটা বেশ শক্তই করল তারা। ২০১০ সালে গল টেস্টের পর ভারতের বিপক্ষে এটিই প্রথম শ্রীলঙ্কা প্রথম ইনিংসে লিড নিল। ভারত ভুলেই গিয়েছিল শ্রীলঙ্কা লিড নিলে কেমন লাগে। ২০১১ সালে অভিষিক্ত কোহলি ক্যারিয়ারে প্রথম দেখলেন, শ্রীলঙ্কা লিড নিচ্ছে তাঁর দলের বিপক্ষে!</p></a>
-=======
-                    <div class="thumbnail kheladhula-thumbnail">
-                        <a href="#"><img src="images/a.jpg" alt="Sachin"></a>
-                        <div class="caption kheladhula-thumbnail-likha">
-                            <a href="#"><h3>রান করার রহস্য—আপেল আর গোসল!</h3></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
-<<<<<<< HEAD:index.html
                     <div class="row">
                         <div class="kheladhula-2nd-part">
                             <div class="col-lg-6">
@@ -461,26 +453,6 @@ require_once './header.php';
                                     </div>
                                 </div>
                             </div>
-=======
-                    <div class="media">
-                        <div class="media-left media-middle">
-                            <a href="#">
-                                <img class="media-object" src="images/psg.jpg" alt="PSG">
-                            </a>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading"><a href="#">নেইমারকে ছাপিয়ে নায়ক যখন কুরজাওয়া</a></h4>
-                        </div>
-                    </div>
-                    <div class="media">
-                        <div class="media-left media-middle">
-                            <a href="#">
-                                <img class="media-object" src="images/psg.jpg" alt="PSG">
-                            </a>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading"><a href="#">নেইমারকে ছাপিয়ে নায়ক যখন কুরজাওয়া</a></h4>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                         </div>
                     </div>
                 </div>
@@ -494,11 +466,7 @@ require_once './header.php';
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
                                     <a href="#"><img src="images/psg.jpg" alt="PSG"></a>
                                     <div class="caption">
-<<<<<<< HEAD:index.html
                                         <h3><a href="#">নেইমারকে ছাপিয়ে নায়ক যখন কুরজাওয়া</a></h3>
-=======
-                                        <a href="#"><h3>নেইমারকে ছাপিয়ে নায়ক যখন কুরজাওয়া</h3></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                     </div>
                                 </div>
                             </div>
@@ -506,11 +474,7 @@ require_once './header.php';
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
                                     <a href="#"><img src="images/chan.jpg" alt="Chan"></a>
                                     <div class="caption">
-<<<<<<< HEAD:index.html
                                         <h3><a href="#">ঘরের মাঠে রোমার দাপুটে জয়</a></h3>
-=======
-                                        <a href="#"><h3>ঘরের মাঠে রোমার দাপুটে জয়</h3></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                     </div>
                                 </div>
                             </div>
@@ -518,11 +482,7 @@ require_once './header.php';
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
                                     <a href="#"><img src="images/bolt.jpg" alt="Bolt"></a>
                                     <div class="caption">
-<<<<<<< HEAD:index.html
                                         <h3><a href="#">ব্যবসায়ী বোল্ট</a></h3>
-=======
-                                        <a href="#"><h3>ব্যবসায়ী বোল্ট</h3></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                     </div>
                                 </div>
                             </div>
@@ -530,11 +490,7 @@ require_once './header.php';
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
                                     <a href="#"><img src="images/mas.jpg" alt="Mash"></a>
                                     <div class="caption">
-<<<<<<< HEAD:index.html
                                         <h3><a href="#">‘...কারণ এরা দক্ষিণ আফ্রিকায় খেলেনি’</a></h3>
-=======
-                                        <a href="#"><h3>‘...কারণ এরা দক্ষিণ আফ্রিকায় খেলেনি’</h3></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                     </div>
                                 </div>
                             </div>
@@ -553,11 +509,10 @@ require_once './header.php';
     <div class="container">
         <div class="row">
             <div class="rajniti-part-2">
-                <div class="col-lg-8">
+                <div class="col-lg-9">
                     <div class="total-content">
                         <a href="#"><h1>রাজনীতি</h1></a>
                         <hr />
-<<<<<<< HEAD:index.html
                         <div class="main_news">
                             <div class="col-lg-8">
                                 <a href="#">
@@ -569,63 +524,31 @@ require_once './header.php';
                                     <h2><a href="#">৭ মার্চের ভাষণ লিখিত ছিল না : প্রধানমন্ত্রী</a></h2>
                                     <a href="#"><p>বঙ্গবন্ধু শেখ মুজিবুর রহমানের ঐতিহাসিক ৭ মার্চের ভাষণ লিখিত ছিল না বলে জানিয়েছেন আওয়ামী লীগের সভাপতি ও প্রধানমন্ত্রী শেখ হাসিনা। শনিবার রাজধানীর সোহরাওয়ার্দী উদ্যানে ইউনেসকো কর্তৃক ৭ মার্চের ভাষণকে ওয়ার্ল্ড হেরিটেজ ডকুমেন্ট স্বীকৃতি প্রদান উপলক্ষে আয়োজিত নাগরিক সমাবেশে প্রধান অতিথির বক্তব্যে তিনি এ মন্তব্য করেন।</p></a>
                                 </div>
-=======
-                        <div class="col-lg-8">
-                            <a href="#">
-                                <img class="main-image" src="images/mirjjafokrul.jpg" alt="Mirjja Fokrul" />
-                            </a>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="rajniti-content">
-                                <a href="#"><h2>কাল সারা দেশে বিএনপির বিক্ষোভ</h2></a>
-                                <a href="#"><p>মির্জা ফখরুল ইসলাম আলমগীর বিএনপির চেয়ারপারসন খালেদা জিয়ার গাড়িবহরে হামলার প্রতিবাদে কর্মসূচি ঘোষণা করেছে দলটি। আগামীকাল বৃহস্পতিবার সারা দেশের জেলা সদরে এবং শনিবার ঢাকা মহানগরে সব থানায় বিক্ষোভ কর্মসূচির ডাক দিয়েছে বিএনপি</p></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="col-lg-4">
                                     <div class="thumbnail thumbnail-contents">
-<<<<<<< HEAD:index.html
                                         <a href="#"><img src="images/raj2.jpg" alt="Rain"></a>
                                         <div class="caption thumbnail-caption">
                                             <h3><a href="#">‘দুই মিনিবাসে ৮০ জন নিয়ে এসেছি’</a></h3>
-=======
-                                        <a href="#"><img src="images/rain.jpg" alt="Rain"></a>
-                                        <div class="caption thumbnail-caption">
-                                            <a href="#"><h3>এই বৃষ্টির দিনে</h3></a>
-                                            <a href="#"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন</p></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-4">
                                     <div class="thumbnail thumbnail-contents">
-<<<<<<< HEAD:index.html
                                         <a href="#"><img src="images/raj3.jpg" alt="Rain"></a>
                                         <div class="caption thumbnail-caption">
                                             <h3><a href="#">তারেকের জন্মদিনে কেক কাটবেন খালেদা</a></h3>
-=======
-                                        <a href="#"><img src="images/rain.jpg" alt="Rain"></a>
-                                        <div class="caption thumbnail-caption">
-                                            <a href="#"><h3>এই বৃষ্টির দিনে</h3></a>
-                                            <a href="#"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন</p></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-4">
                                     <div class="thumbnail thumbnail-contents">
-<<<<<<< HEAD:index.html
                                         <a href="#"><img src="images/raj4.jpg" alt="Rain"></a>
                                         <div class="caption thumbnail-caption">
                                             <h3><a href="#">আওয়ামী লীগের প্রতিনিধি দল রংপুর যাচ্ছে রোববার</a></h3>
-=======
-                                        <a href="#"><img src="images/rain.jpg" alt="Rain"></a>
-                                        <div class="caption thumbnail-caption">
-                                            <a href="#"><h3>এই বৃষ্টির দিনে</h3></a>
-                                            <a href="#"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন </p></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                         </div>
                                     </div>
                                 </div>
@@ -633,12 +556,10 @@ require_once './header.php';
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
-<<<<<<< HEAD:index.html
+                <div class="col-lg-3">
                     <div class="row">
-=======
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
 
+                    </div>
                 </div>
             </div>
         </div>
@@ -806,7 +727,6 @@ require_once './header.php';
                 <hr />
                 <!--Kheladhula First part start here-->
                 <div class= "col-lg-6">
-<<<<<<< HEAD:index.html
                     <div class="main_news">
                         <div class="col-lg-8">
                             <a href="#"><img src="images/bin1.jpg" alt="Sachin" class="img-responsive"></a>
@@ -814,17 +734,10 @@ require_once './header.php';
                         <div class="col-lg-4 details">
                             <h3><a href="#">রান করার রহস্য—আপেল আর গোসল!</a></h3>
                             <a href="#"><p>কলকাতা টেস্টে লিডটা বেশ ভালোই হলো শ্রীলঙ্কার। ভারতের ১৭২ রানের জবাবে প্রথম ইনিংসে ২৯৪—১২২ রানে এগিয়ে নিজেদের অবস্থানটা বেশ শক্তই করল তারা। ২০১০ সালে গল টেস্টের পর ভারতের বিপক্ষে এটিই প্রথম শ্রীলঙ্কা প্রথম ইনিংসে লিড নিল। ভারত ভুলেই গিয়েছিল শ্রীলঙ্কা লিড নিলে কেমন লাগে। ২০১১ সালে অভিষিক্ত কোহলি ক্যারিয়ারে প্রথম দেখলেন, শ্রীলঙ্কা লিড নিচ্ছে তাঁর দলের বিপক্ষে!</p></a>
-=======
-                    <div class="thumbnail kheladhula-thumbnail">
-                        <a href="#"><img src="images/binodon1.jpg" alt="jesia"></a>
-                        <div class="caption kheladhula-thumbnail-likha">
-                            <a href="#"><h3>‘ফাইনাল ফোরটি’ থেকে বাদ জেসিয়া</h3></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
-<<<<<<< HEAD:index.html
                     <div class="row">
                         <div class="kheladhula-2nd-part">
                             <div class="col-lg-6">
@@ -843,26 +756,6 @@ require_once './header.php';
                                     </div>
                                 </div>
                             </div>
-=======
-                    <div class="media">
-                        <div class="media-left media-middle">
-                            <a href="#">
-                                <img class="media-object" src="images/salmankhan.jpg" alt="PSG">
-                            </a>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading"><a href="#">বিপাকে উর্বশী</a></h4>
-                        </div>
-                    </div>
-                    <div class="media">
-                        <div class="media-left media-middle">
-                            <a href="#">
-                                <img class="media-object" src="images/shakib.jpg" alt="PSG">
-                            </a>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading"><a href="#">ছেলেকে রেখে কলকাতায় অপু, শাকিব দেখেন তালা</a></h4>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                         </div>
                     </div>
                 </div>
@@ -874,55 +767,33 @@ require_once './header.php';
                         <div class="col-lg-12">
                             <div class="col-lg-3">
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
-<<<<<<< HEAD:index.html
                                     <a href="#"><img src="images/bin4.jpg" alt="PSG"></a>
                                     <div class="caption">
                                         <h3><a href="#">নেইমারকে ছাপিয়ে নায়ক যখন কুরজাওয়া</a></h3>
-=======
-                                    <a href="#"><img src="images/jesia.jpg" alt="PSG"></a>
-                                    <div class="caption">
-                                        <a href="#"><h3>‘ফাইনাল ফোরটি’ থেকে বাদ জেসিয়া</h3></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
-                                    <a href="#"><img src="images/habib.jpg" alt="Chan"></a>
+                                    <a href="#"><img src="images/binodon4.jpg" alt="Chan"></a>
                                     <div class="caption">
-<<<<<<< HEAD:index.html
                                         <h3><a href="#">ঘরের মাঠে রোমার দাপুটে জয়</a></h3>
-=======
-                                        <a href="#"><h3>‘সুরসম্রাটের হাত থেকে পুরস্কার পেলাম’</h3></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
-<<<<<<< HEAD:index.html
                                     <a href="#"><img src="images/bin6.jpg" alt="Bolt"></a>
                                     <div class="caption">
                                         <h3><a href="#">ব্যবসায়ী বোল্ট</a></h3>
-=======
-                                    <a href="#"><img src="images/tilta.jpg" alt="Bolt"></a>
-                                    <div class="caption">
-                                        <a href="#"><h3>টিলডার কাছে ঢাকা এক স্মৃতিময় শহর</h3></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="thumbnail kheladhula-2nd-part-thumbnail">
-<<<<<<< HEAD:index.html
                                     <a href="#"><img src="images/bin7.jpg" alt="Mash"></a>
                                     <div class="caption">
                                         <h3><a href="#">‘...কারণ এরা দক্ষিণ আফ্রিকায় খেলেনি’</a></h3>
-=======
-                                    <a href="#"><img src="images/amisa.jpg" alt="Mash"></a>
-                                    <div class="caption">
-                                        <a href="#"><h3>খোলামেলা ছবি দিয়ে বিতর্কে আমিশা!’</h3></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                     </div>
                                 </div>
                             </div>
@@ -941,7 +812,6 @@ require_once './header.php';
     <div class="container">
         <div class="row">
             <div class="rajniti-part-2">
-<<<<<<< HEAD:index.html
                 <div class="col-lg-8">
                     <div class="total-content">
                         <a href="#"><h1>সাহিত্য</h1></a>
@@ -957,21 +827,6 @@ require_once './header.php';
                                     <h2><a href="#">ঢাকা বিশ্ববিদ্যালয়কে আর কত নিচে নামাব আমরা?</a></h2>
                                     <a href="#"><p>অনেক পণ্ডিত ও বিদগ্ধজন ঢাকা বিশ্ববিদ্যালয়কে ‘বিশ্ববিদ্যালয়ের চেয়ে অধিক কিছু’ বলে থাকেন। কারণটি এই যে প্রতিষ্ঠার পর থেকে এ ভূখণ্ডে শিক্ষার বিস্তার, শি‌ক্ষিত মধ্যবিত্ত শ্রেণির বিকাশ ও বাঙালি জাতি গঠনে অবদান রাখার মধ্য দিয়ে ঢাকা বিশ্ববিদ্যালয় হয়ে ওঠে</p></a>
                                 </div>
-=======
-                <div class="col-lg-9">
-                    <div class="total-content">
-                        <a href="#"><h1>সাহিত্য</h1></a>
-                        <hr />
-                        <div class="col-lg-8">
-                            <a href="#">
-                                <img class="main-image" src="images/sikhha.jpg" alt="Mirjja Fokrul" />
-                            </a>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="rajniti-content">
-                                <a href="#"><h2>ঢাকা বিশ্ববিদ্যালয়কে আর কত নিচে নামাব আমরা?</h2></a>
-                                <a href="#"><p>অনেক পণ্ডিত ও বিদগ্ধজন ঢাকা বিশ্ববিদ্যালয়কে ‘বিশ্ববিদ্যালয়ের চেয়ে অধিক কিছু’ বলে থাকেন। কারণটি এই যে প্রতিষ্ঠার পর থেকে এ ভূখণ্ডে শিক্ষার বিস্তার, শি‌ক্ষিত মধ্যবিত্ত শ্রেণির বিকাশ ও বাঙালি জাতি গঠনে অবদান রাখার মধ্য দিয়ে ঢাকা বিশ্ববিদ্যালয় হয়ে ওঠে</p></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                             </div>
                         </div>
                         <div class="row">
@@ -980,12 +835,7 @@ require_once './header.php';
                                     <div class="thumbnail thumbnail-contents">
                                         <a href="#"><img src="images/sikhha2.jpg" alt="Rain"></a>
                                         <div class="caption thumbnail-caption">
-<<<<<<< HEAD:index.html
                                             <h3><a href="#">এত ‘উচ্চশিক্ষিত’ মানুষের কাজ কী?</a></h3>
-=======
-                                            <a href="#"><h3>এত ‘উচ্চশিক্ষিত’ মানুষের কাজ কী?</h3></a>
-                                            <a href="#" class="details"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন</p></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                         </div>
                                     </div>
                                 </div>
@@ -993,12 +843,7 @@ require_once './header.php';
                                     <div class="thumbnail thumbnail-contents">
                                         <a href="#"><img src="images/sikhha3.jpg" alt="Rain"></a>
                                         <div class="caption thumbnail-caption">
-<<<<<<< HEAD:index.html
                                             <h3><a href="#">মেডিকেল পারে, বিশ্ববিদ্যালয় পারে না!</a></h3>
-=======
-                                            <a href="#"><h3>মেডিকেল পারে, বিশ্ববিদ্যালয় পারে না!</h3></a>
-                                            <a href="#" class="details"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন</p></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                         </div>
                                     </div>
                                 </div>
@@ -1006,12 +851,7 @@ require_once './header.php';
                                     <div class="thumbnail thumbnail-contents">
                                         <a href="#"><img src="images/sikhha4.jpg" alt="Rain"></a>
                                         <div class="caption thumbnail-caption">
-<<<<<<< HEAD:index.html
                                             <h3><a href="#">কলম ছেড়ে শাবল কেন?</a></h3>
-=======
-                                            <a href="#"><h3> কলম ছেড়ে শাবল কেন?</h3></a>
-                                            <a href="#" class="details"><p>নিম্নচাপের প্রভাবে টানা বৃষ্টি হচ্ছে বগুড়ায়। এর মধ্যেই জীবনের প্রয়োজনে ছাতা মাথায় কাজে বের হয়েছেন </p></a>
->>>>>>> 6bdd1d8440a8df99f5d06c097fcdf8bcea55b50f:index.php
                                         </div>
                                     </div>
                                 </div>
@@ -1019,11 +859,78 @@ require_once './header.php';
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="row">
-
+                <!--Nari part start here-->
+                <div class="nari">
+                    <div class="col-lg-4">
+                        <div class="row">
+                            <div class="nari-total-content">
+                                <a href="#"><h1>নারী</h1></a>
+                                <hr />
+                                <div class="total-content-2">
+                                    <div class="col-lg-5">
+                                        <a href="#">
+                                            <img src="images/jiyan.jpg" alt="jibonjapon" />
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-7">
+                                        <div class="details">
+                                            <h4><a href="#">দেনার পাহাড় মাথায় নিয়েও তিনি শীর্ষ ধনী!</a></h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="total-content-2">
+                                    <div class="col-lg-5">
+                                        <a href="#">
+                                            <img src="images/jibonjapon2.jpg" alt="Apurthoniti" />
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-7">
+                                        <div class="details">
+                                            <h4><a href="#">বয়সের তারতম্য?</a></h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="total-content-2">
+                                    <div class="col-lg-5">
+                                        <a href="#">
+                                            <img src="images/sorojogot.jpg" alt="Apurthoniti" />
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-7">
+                                        <div class="details">
+                                            <h4><a href="#">সৌরজগতের কাছেই বাসযোগ্য গ্রহ?</a></h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="total-content-2">
+                                    <div class="col-lg-5">
+                                        <a href="#">
+                                            <img src="images/jibonjapon4.jpg" alt="Apurthoniti" />
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-7">
+                                        <div class="details">
+                                            <h4><a href="#">বাংলাদেশের বাজারে আসছে আইফোন ১০</a></h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="total-content-2">
+                                    <div class="col-lg-5">
+                                        <a href="#">
+                                            <img src="images/jiyan.jpg" alt="jibonjapon" />
+                                        </a>
+                                    </div>
+                                    <div class="col-lg-7">
+                                        <div class="details">
+                                            <h4><a href="#">দেনার পাহাড় মাথায় নিয়েও তিনি শীর্ষ ধনী!</a></h4>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
+                <!--Nari part end here-->
             </div>
         </div>
     </div>
